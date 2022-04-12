@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CS186 : Introduction to Database Systems
 
 This repo contains all the learning materials for Berkeley's Database course CS186. 
@@ -45,3 +46,7 @@ Check out [this repository](https://github.com/PKUFlyingPig/Self-learning-Comput
 
 
 
+=======
+# CS186
+Introduction of Relational DataBase
+>>>>>>> 7c0e54598df43dc719cb55444f0fd3c1d906f78b
